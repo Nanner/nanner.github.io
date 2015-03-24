@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Nanner's blog:
+tagline:          "Some things I'd like to share"
+description:      'Because sometimes I may want to share things with you. And at least you can read them all pretty.'
+url:              http://lanyon.getpoole.com
+
+author:
+  name:           'Diogo Santos'
+  url:            https://diogosantos.me
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/poole/lanyon
