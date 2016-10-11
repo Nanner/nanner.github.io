@@ -1980,6 +1980,10 @@
 			display: none;
 		}
 
+	.academicon:before {
+		font-family: academicons;
+	}
+
 /* Image */
 
 	.image {
